@@ -9,3 +9,22 @@ html {
 .error-input {
   border: 1px solid red !important;
 }
+.btn-delete {
+  display: block;
+  width: 30px;
+  height: 30px;
+  background-image: url(../img/delete.svg);
+  background-size: cover;
+  border: none;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.eng-word {
+  font-size: 22px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+.rus-word {
+  font-size: 16px;
+  color: rgb(139, 138, 135);
+}
